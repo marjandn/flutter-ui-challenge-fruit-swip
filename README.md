@@ -1,16 +1,9 @@
-# fruits_swip_transition
+### Fruit Swip Transition 🥑🍋
+Playing with Flutter:blue_heart: animations
 
-A new Flutter project.
 
-## Getting Started
+I picked the [Fruit Store - Swipe Transition design from Dribbble](https://dribbble.com/shots/4534347-Fruit-Store-Swipe-Transition) and implemented it in Flutter.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Result:
+![Screen Recording 2023-04-15 at 13 58 39](https://user-images.githubusercontent.com/25709266/232208964-83549b33-9134-4505-ae23-0c881a27e5e4.gif)
